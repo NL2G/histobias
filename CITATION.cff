@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you reference the HistoBias website, please cite it using this metadata."
+title: "HistoBias: Analyzing Historical and Cross-Cultural Bias through the Lens of NLP"
+authors:
+  - name: "HistoBias Project Team"
+abstract: "Website for the DFG-funded HistoBias project (EG 375/12-1), which uses natural language processing to study social biases across historical periods and languages."
+date-released: 2026-11-08
+url: "https://nl2g.github.io/histobias/"
+repository-code: "https://github.com/NL2G/histobias"
