@@ -146,21 +146,3 @@ body{font-size:17px}.site-header{height:112px}.brand{gap:0;letter-spacing:-1.1px
 @media (max-width: 760px) {
   .publication-figure > a { height: 190px; }
 }
-.website-citation {
-  padding-top: clamp(2.5rem, 6vw, 4rem);
-  padding-bottom: clamp(2.5rem, 6vw, 4rem);
-}
-
-.website-citation p {
-  line-height: 1.7;
-  overflow-wrap: anywhere;
-}
-
-.website-citation p a {
-  text-decoration: underline;
-  text-underline-offset: 0.2em;
-}
-
-.website-citation p a:hover {
-  color: var(--rust);
-}
